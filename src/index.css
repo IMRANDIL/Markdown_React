@@ -153,6 +153,11 @@ Markdown
   min-height: 30vh;
 
 }
+
+textarea.input{
+  background-color: black;
+  color: #fff;
+}
 .input,
 .result {
   padding: 1rem 2rem;
