@@ -151,7 +151,7 @@ Markdown
   line-height: 2;
   box-shadow: var(--dark-shadow);
   min-height: 30vh;
-  background-color: black;
+
 }
 .input,
 .result {
